@@ -12,7 +12,7 @@ FullStack Engineer🤙 . I live to create, design & code.🤗
 - Database(Postgres | Mysql | Mongo)
 - ORM (Sequelize | Mongoose)
 - Test-Driven-Development (TDD) (Jest, Enzyme, Mocha, Chai, Cypress)
-- UI/UX Design(HTML, CSS, Material Design, Ant Design, and SASS)
+- UI/UX Design(Material Design, Ant Design, and SASS)
 
 ## Favaourite Quote 🤟🤟
 The best thing about a boolean is even if you are wrong, you are only off by a bit.🚀
